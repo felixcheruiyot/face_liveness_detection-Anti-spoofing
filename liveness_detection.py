@@ -22,7 +22,7 @@ def bounding_box(img,box,match_name=[]):
 
 # inicializar conteo de parpadeos
 COUNTER,TOTAL = 0,0
-input_type = "webcam"
+input_type = "image"
 
 #----------------------------- Imagen ------------------------------
 if input_type == "image":    
